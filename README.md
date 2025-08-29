@@ -8,8 +8,6 @@ Tech stack: **Java, Spring Boot, Python, MySQL, MongoDB, AWS, LangChain, Grafana
 ## 🛠 What Drives Me
 - Crafting **scalable backends** with strong design principles.  
 - Building **GenAI solutions**: RAG chatbots, real-time voicebots, embeddings-based retrieval.  
-- Monitoring & observability using **Grafana + Prometheus**.  
-- Exploring **system design, OOP patterns, and distributed computing**.  
 
 ---
 
@@ -20,14 +18,11 @@ Tech stack: **Java, Spring Boot, Python, MySQL, MongoDB, AWS, LangChain, Grafana
 ---
 
 ## 🚧 Current Focus
-- Designing a **real-time voicebot platform** on top of a RAG-based chatbot.  
 - Improving chatbot **evaluation and fine-tuning** with embeddings + custom LLMs.  
-- Building **clean Java projects** (e.g., Ticket Booking System with concurrency safety).  
-
 ---
 
 ## 🧠 Problem Solving
-<img src="assets/idea-graph-banner.gif" alt="Problem Solving Idea Graph" width="100%"/>
+<img src="assets/problem-solving-idea-orb (1).gif" alt="Problem Solving Idea Graph" width="100%"/>
 
 ## 🌱 Open Source
 <img src="assets/open-source-mesh-banner.gif" alt="Open Source Network" width="100%"/>
@@ -41,8 +36,4 @@ Tech stack: **Java, Spring Boot, Python, MySQL, MongoDB, AWS, LangChain, Grafana
 ## 🤝 Let’s Connect
 - 📩 Email: **indranilrsvm03@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/indranil-chatterjee-a6717a230/)  
----
 
-⚡ *“I believe in solving problems by breaking them into patterns — whether it’s code, AI pipelines, or systems design.”*
-
----
