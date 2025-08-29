@@ -39,10 +39,8 @@ Tech stack: **Java, Spring Boot, Python, MySQL, MongoDB, AWS, LangChain, Grafana
 ---
 
 ## 🤝 Let’s Connect
-- 📩 Email: **your.email@example.com**  
-- 🔗 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)  
-- 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)  
-
+- 📩 Email: **indranilrsvm03@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/indranil-chatterjee-a6717a230/)  
 ---
 
 ⚡ *“I believe in solving problems by breaking them into patterns — whether it’s code, AI pipelines, or systems design.”*
