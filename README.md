@@ -24,12 +24,6 @@ Tech stack: **Java, Spring Boot, Python, MySQL, MongoDB, AWS, LangChain, Grafana
 ## 🧠 Problem Solving
 <img src="assets/problem-solving-idea-orb (1).gif" alt="Problem Solving Idea Graph" width="100%"/>
 
-## 🌱 Open Source
-<img src="assets/open-source-mesh-banner.gif" alt="Open Source Network" width="100%"/>
-<br/>
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
-<br/>
-<img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 
 ---
 
