@@ -1,4 +1,4 @@
-# Hi, I'm YOUR_NAME 👋
+# Hi, I'm Indranil 👋
 Backend & GenAI Engineer | Open Source Contributor | DSA Enthusiast
 
 ---
