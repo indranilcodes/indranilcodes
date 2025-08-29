@@ -1,19 +1,50 @@
-# Hi, I'm Indranil 👋
-Backend & GenAI Engineer | Open Source Contributor | DSA Enthusiast
+# ✨ Hello, I'm **Indranil!**
+
+I’m a **Software Engineer (Backend + Generative AI)** passionate about designing clean, scalable systems and turning AI research into production-ready tools.  
+Tech stack: **Java, Spring Boot, Python, MySQL, MongoDB, AWS, LangChain, Grafana, Prometheus**.
 
 ---
 
-### 🧩 Problem Solving
-![](assets/problem-solving-idea-orb.gif)
-
-### 🌱 Open Source
-![](assets/open-source-network.gif)
-![](profile-3d-contrib/profile-night-rainbow.svg)
-![](assets/github-contribution-grid-snake.svg)
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+## 🛠 What Drives Me
+- Crafting **scalable backends** with strong design principles.  
+- Building **GenAI solutions**: RAG chatbots, real-time voicebots, embeddings-based retrieval.  
+- Monitoring & observability using **Grafana + Prometheus**.  
+- Exploring **system design, OOP patterns, and distributed computing**.  
 
 ---
 
-Replace `YOUR_GITHUB_USERNAME` and `YOUR_NAME` with your details.
+## 🌍 Beyond Code
+- Curious about **AI in games, products, and real-world systems**.  
+- Love learning  **System design Concepts** and side projects.  
+
+---
+
+## 🚧 Current Focus
+- Designing a **real-time voicebot platform** on top of a RAG-based chatbot.  
+- Improving chatbot **evaluation and fine-tuning** with embeddings + custom LLMs.  
+- Building **clean Java projects** (e.g., Ticket Booking System with concurrency safety).  
+
+---
+
+## 🧠 Problem Solving
+<img src="assets/idea-graph-banner.gif" alt="Problem Solving Idea Graph" width="100%"/>
+
+## 🌱 Open Source
+<img src="assets/open-source-mesh-banner.gif" alt="Open Source Network" width="100%"/>
+<br/>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
+<br/>
+<img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+
+---
+
+## 🤝 Let’s Connect
+- 📩 Email: **your.email@example.com**  
+- 🔗 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)  
+- 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)  
+
+---
+
+⚡ *“I believe in solving problems by breaking them into patterns — whether it’s code, AI pipelines, or systems design.”*
+
+---
