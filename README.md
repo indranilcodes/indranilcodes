@@ -22,7 +22,7 @@ Tech stack: **Java, Spring Boot, Python, MySQL, MongoDB, AWS, LangChain, Grafana
 ---
 
 ## 🧠 Problem Solving
-<img src="assets/problem-solving-idea-orb (1).gif" alt="Problem Solving Idea Graph" width="100%"/>
+<img src="assets/problem-solving-idea-orb (2).gif" alt="Problem Solving Idea Graph" width="100%"/>
 
 
 ---
